@@ -1,0 +1,30 @@
+Lead to Customer Conversion
+Lead Pipeline
+1. New Lead 
+No contact made. 
+2. Working Lead 
+Contact established and engagement started. 
+3. Qualified Lead 
+Lead verified and meets qualification criteria. 
+4. Unqualified Lead 
+Not a good fit or does not meet criteria. 
+Lead Conversion
+Qualified Lead → Account + Contact + Opportunity
+
+Opportunity (Sales) Pipeline
+1. Prospecting 
+Initial outreach and contact. 
+2. Qualification 
+Verify prospect information and fit. 
+3. Need Analysis 
+Understand requirements and pain points. 
+4. Value Proposition 
+Present solution and business value. 
+5. Perception Analysis 
+Assess how the prospect views your offering vs competitors. 
+6. Decision Making 
+Handle approvals, negotiations, and final decision. 
+7. Closed Won / Closed Lost 
+Customer acquired or opportunity lost. 
+Flow
+New Lead → Working Lead → Qualified Lead → Convert → Account + Contact + Opportunity → Prospecting → Qualification → Need Analysis → Value Proposition → Perception Analysis → Decision Making → Closed Won/Lost
